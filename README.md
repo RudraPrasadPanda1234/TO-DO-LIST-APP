@@ -7,7 +7,7 @@ Edit existing tasks to update their details
 Delete tasks that are no longer relevant
 Securely register and log in using Firebase Realtime Authentication
 
-<h2>🧐 Features</h2>
+## 🧐 Features
 **Robust Task Management:**
 * Add, edit, and delete tasks with ease
 * Set optional due dates for tasks to stay on top of deadlines
@@ -19,9 +19,28 @@ Securely register and log in using Firebase Realtime Authentication
 * Includes checks for special characters, digits, uppercase, and lowercase letters
 * Option for new users to create accounts
 
-## Technologies
-***Development Environment:*** Android Studio  
-***Programming Language:*** Kotlin  
-***Layout:*** XML  
-***Database:*** Firebase Realtime Database  
-***Authentication:*** Firebase Realtime Authentication  
+## 💻 Built with
+### Technologies used in the project:  
+* ***Development Environment:*** Android Studio  
+* ***Programming Language:*** Kotlin  
+* ***Layout:*** XML  
+* ***Database:*** Firebase Realtime Database  
+* ***Authentication:*** Firebase Realtime Authentication
+
+## 🛠️ Installation Steps
+
+<p>1. Clone the repository to your local machine:</p>
+
+```
+git clone https://github.com/RudraPrasadPanda1234/TO-DO-LIST-APP
+```
+
+<p>2. Open the project in Android Studio.</p>
+
+<p>3. Configure Firebase Realtime Authentication with your project credentials.</p>
+
+<p>4. Build and run the application on your Android device or emulator.</p>
+
+## 🍰 Contribution Guidelines:
+
+Contributions to improve the app's functionality add new features or fix bugs are welcome! If you'd like to contribute please fork the repository make your changes and submit a pull request.   
