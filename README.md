@@ -8,7 +8,8 @@ Securely register and log in using Firebase Realtime Authentication
 ## Features
 **Robust Task Management:**
 * Add, edit, and delete tasks with ease
-* Set optional due dates for tasks to stay on top of deadlines  
+* Set optional due dates for tasks to stay on top of deadlines
+
 **User Authentication:**
 * Secure registration with Firebase Realtime Authentication
 * Login using registered credentials
