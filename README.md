@@ -20,6 +20,6 @@ Securely register and log in using Firebase Realtime Authentication
 ## Technologies
 *Development Environment:* Android Studio  
 *Programming Language:* Kotlin  
-*Layout:*XML  
+*Layout:* XML  
 *Database:* Firebase Realtime Database  
 *Authentication:* Firebase Realtime Authentication  
