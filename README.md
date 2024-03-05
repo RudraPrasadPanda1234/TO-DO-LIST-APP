@@ -7,7 +7,7 @@ Edit existing tasks to update their details
 Delete tasks that are no longer relevant
 Securely register and log in using Firebase Realtime Authentication
 
-## Features
+<h2>🧐 Features</h2>
 **Robust Task Management:**
 * Add, edit, and delete tasks with ease
 * Set optional due dates for tasks to stay on top of deadlines
