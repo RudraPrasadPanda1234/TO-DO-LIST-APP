@@ -19,8 +19,7 @@ Securely register and log in using Firebase Realtime Authentication
 * Includes checks for special characters, digits, uppercase, and lowercase letters
 * Option for new users to create accounts
 
-## 💻 Built with
-### Technologies used in the project:  
+## 💻 Built with 
 * ***Development Environment:*** Android Studio  
 * ***Programming Language:*** Kotlin  
 * ***Layout:*** XML  
