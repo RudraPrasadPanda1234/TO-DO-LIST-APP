@@ -8,9 +8,8 @@
 
 * [About The Project](#about-the-project)
 * [Features](#features)
-* [Built with](build-with)
-* [Getting Started](#getting-started)
-  * [Installation Steps](#installation-steps)
+* [Built With](build-with)
+* [Installation Steps](#installation-steps)
 * [Contributing Guidlines](#contributing-guidlines)
 
 * * [About the Project](#about-the-project)
@@ -36,7 +35,7 @@ Securely register and log in using Firebase Realtime Authentication
 * Includes checks for special characters, digits, uppercase, and lowercase letters
 * Option for new users to create accounts
 
-## Built with 
+## Built With 
 * ***Development Environment:*** Android Studio  
 * ***Programming Language:*** Kotlin  
 * ***Layout:*** XML  
