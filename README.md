@@ -27,7 +27,15 @@ Securely register and log in using Firebase Realtime Authentication
 * ***Authentication:*** Firebase Realtime Authentication
 
 ## 🛠️ Installation Steps
+**Method 1:**
+<p>1. Open Android Studio.</p>
+<p>2. Go to File > New > Project from Version Control.</p>
+<p>3. In the pop-up window, choose Git from the Version control dropdown menu.</p>
+<p>4. Paste the URL of the GitHub repository you want to run in the URL field.</p>
+<p>5. Select a folder on your computer where you want to clone the project files.</p>
+<p>6. Click Clone.</p>
 
+**Method 2:**
 <p>1. Clone the repository to your local machine:</p>
 
 ```
@@ -35,10 +43,17 @@ git clone https://github.com/RudraPrasadPanda1234/TO-DO-LIST-APP
 ```
 
 <p>2. Open the project in Android Studio.</p>
-
 <p>3. Configure Firebase Realtime Authentication with your project credentials.</p>
-
 <p>4. Build and run the application on your Android device or emulator.</p>
+
+**Method 3:**
+<p>1. Go to the GitHub repository you want to run.</p>
+<p>2. Look for a Download ZIP button. This button might be located under the Code button or somewhere else on the repository page.</p>
+<p>3. Click the Download ZIP button and save the zip file to your computer.</p>
+<p>4. Open Android Studio.</p>
+<p>5. Go to File > Open.</p>
+<p>6. Navigate to the folder where you saved the downloaded ZIP file and select it.</p>
+<p>7. Click OK.</p>
 
 ## 🍰 Contribution Guidelines:
 
