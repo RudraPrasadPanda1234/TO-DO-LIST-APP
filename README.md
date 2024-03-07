@@ -1,6 +1,9 @@
 <h1 align="center" id="title">TO DO LIST APP</h1>
 
 <p align="center"><img src="https://socialify.git.ci/RudraPrasadPanda1234/TO-DO-LIST-APP/image?font=Rokkitt&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Auto" alt="project-image"></p>
+![Downloads](https://img.shields.io/github/downloads/RudraPrasadPanda1234/TO-DO-LIST-APP/total) ![Contributors](https://img.shields.io/github/contributors/RudraPrasadPanda1234/TO-DO-LIST-APP?color=dark-green) ![Forks](https://img.shields.io/github/forks/RudraPrasadPanda1234/TO-DO-LIST-APP?style=social) ![Stargazers](https://img.shields.io/github/stars/RudraPrasadPanda1234/TO-DO-LIST-APP?style=social) ![Issues](https://img.shields.io/github/issues/RudraPrasadPanda1234/TO-DO-LIST-APP) ![License](https://img.shields.io/github/license/RudraPrasadPanda1234/TO-DO-LIST-APP) 
+
+## About The Project
 This Android application is a user-friendly To-Do List app that helps you stay organized and manage your tasks efficiently. It allows you to:
 Create new tasks with descriptive titles and optional due dates
 Edit existing tasks to update their details
