@@ -9,7 +9,7 @@
 * [About The Project](#about-the-project)
 * [Features](#features)
 * [Built With](#built-with)
-* [Installation Steps](#installation-steps)
+* [🛠️ Installation Steps](#🛠️-installation-steps)
 * [Contributing Guidlines](#contributing-guidlines)
 
 ## About The Project
