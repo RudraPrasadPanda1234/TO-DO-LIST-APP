@@ -7,7 +7,7 @@
 ## Table Of Contents
 
 * [About The Project](#about-the-project)
-* [Features] (#Features)
+* [Features] (#features)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Installation Steps](#installation-steps)
