@@ -8,13 +8,9 @@
 
 * [About The Project](#about-the-project)
 * [Features](#features)
-* [Built With](build-with)
+* [Built With](built-with)
 * [Installation Steps](#installation-steps)
 * [Contributing Guidlines](#contributing-guidlines)
-
-* * [About the Project](#about-the-project)
-
-
 
 ## About The Project
 This Android application is a user-friendly To-Do List app that helps you stay organized and manage your tasks efficiently. It allows you to:
