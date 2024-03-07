@@ -2,6 +2,19 @@
 
 <p align="center"><img src="https://socialify.git.ci/RudraPrasadPanda1234/TO-DO-LIST-APP/image?font=Rokkitt&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Auto" alt="project-image"></p>
 
+<p align="center">
+    <br/>
+    <a href="https://github.com/RudraPrasadPanda1234/TO-DO-LIST-APP"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/RudraPrasadPanda1234/TO-DO-LIST-APP">View Demo</a>
+    .
+    <a href="https://github.com/RudraPrasadPanda1234/TO-DO-LIST-APP/issues">Report Bug</a>
+    .
+    <a href="https://github.com/RudraPrasadPanda1234/TO-DO-LIST-APP/issues">Request Feature</a>
+  </p>
+</p>
+
 ![Downloads](https://img.shields.io/github/downloads/RudraPrasadPanda1234/TO-DO-LIST-APP/total) ![Contributors](https://img.shields.io/github/contributors/RudraPrasadPanda1234/TO-DO-LIST-APP?color=dark-green) ![Forks](https://img.shields.io/github/forks/RudraPrasadPanda1234/TO-DO-LIST-APP?style=social) ![Stargazers](https://img.shields.io/github/stars/RudraPrasadPanda1234/TO-DO-LIST-APP?style=social) ![Issues](https://img.shields.io/github/issues/RudraPrasadPanda1234/TO-DO-LIST-APP)
 
 ## Table Of Contents
