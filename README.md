@@ -7,8 +7,8 @@
 ## Table Of Contents
 
 * [About The Project](#about-the-project)
-* [🧐 Features] (#features)
-* [Built With](#built-with)
+* [🧐Features](
+* [💻 Built with](💻-build-with)
 * [Getting Started](#getting-started)
   * [Installation Steps](#installation-steps)
 * [Contributing Guidlines](#contributing-guidlines)
@@ -24,7 +24,7 @@ Edit existing tasks to update their details
 Delete tasks that are no longer relevant
 Securely register and log in using Firebase Realtime Authentication
 
-## 🧐 Features
+## Features
 **Robust Task Management:**
 * Add, edit, and delete tasks with ease
 * Set optional due dates for tasks to stay on top of deadlines
