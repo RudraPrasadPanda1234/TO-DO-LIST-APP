@@ -67,6 +67,6 @@ git clone https://github.com/RudraPrasadPanda1234/TO-DO-LIST-APP
 <p>6. Navigate to the folder where you saved the downloaded ZIP file and select it.</p>
 <p>7. Click <b> OK</b>.</p>
 
-## Contribution Guidelines:
+## Contributing Guidelines:
 
 Contributions to improve the app's functionality add new features or fix bugs are welcome! If you'd like to contribute please fork the repository make your changes and submit a pull request.   
