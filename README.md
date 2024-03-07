@@ -38,7 +38,7 @@ Securely register and log in using Firebase Realtime Authentication
 * ***Database:*** Firebase Realtime Database  
 * ***Authentication:*** Firebase Realtime Authentication
 
-## 🛠️ Installation Steps
+## Installation Steps
 **Method 1:**
 <p>1. Open Android Studio.</p>
 <p>2. Go to <b> File > New > Project from Version Control </b>.</p>
@@ -67,6 +67,6 @@ git clone https://github.com/RudraPrasadPanda1234/TO-DO-LIST-APP
 <p>6. Navigate to the folder where you saved the downloaded ZIP file and select it.</p>
 <p>7. Click <b> OK</b>.</p>
 
-## 🍰 Contribution Guidelines:
+## Contribution Guidelines:
 
 Contributions to improve the app's functionality add new features or fix bugs are welcome! If you'd like to contribute please fork the repository make your changes and submit a pull request.   
