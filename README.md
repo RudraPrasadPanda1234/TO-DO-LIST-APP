@@ -29,11 +29,11 @@ Securely register and log in using Firebase Realtime Authentication
 ## 🛠️ Installation Steps
 **Method 1:**
 <p>1. Open Android Studio.</p>
-<p>2. Go to File > New > Project from Version Control.</p>
-<p>3. In the pop-up window, choose Git from the Version control dropdown menu.</p>
+<p>2. Go to <b> File > New > Project from Version Control </b>.</p>
+<p>3. In the pop-up window, choose <b> Git </b>from the Version control dropdown menu.</p>
 <p>4. Paste the URL of the GitHub repository you want to run in the URL field.</p>
 <p>5. Select a folder on your computer where you want to clone the project files.</p>
-<p>6. Click Clone.</p>
+<p>6. Click <b >Clone </b>.</p>
 
 **Method 2:**
 <p>1. Clone the repository to your local machine:</p>
@@ -48,12 +48,12 @@ git clone https://github.com/RudraPrasadPanda1234/TO-DO-LIST-APP
 
 **Method 3:**
 <p>1. Go to the GitHub repository you want to run.</p>
-<p>2. Look for a Download ZIP button. This button might be located under the Code button or somewhere else on the repository page.</p>
-<p>3. Click the Download ZIP button and save the zip file to your computer.</p>
+<p>2. Look for a <b> Download ZIP button </b>. This button might be located under the <b> Code </b>button or somewhere else on the repository page.</p>
+<p>3. Click the <b> Download ZIP </b> button and save the zip file to your computer.</p>
 <p>4. Open Android Studio.</p>
-<p>5. Go to File > Open.</p>
+<p>5. Go to <b>File > Open</b>.</p>
 <p>6. Navigate to the folder where you saved the downloaded ZIP file and select it.</p>
-<p>7. Click OK.</p>
+<p>7. Click <b> OK</b>.</p>
 
 ## 🍰 Contribution Guidelines:
 
