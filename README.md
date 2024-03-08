@@ -15,6 +15,8 @@
   </p>
 </p>
 
+<br/>
+
 ![Downloads](https://img.shields.io/github/downloads/RudraPrasadPanda1234/TO-DO-LIST-APP/total) ![Contributors](https://img.shields.io/github/contributors/RudraPrasadPanda1234/TO-DO-LIST-APP?color=dark-green) ![Forks](https://img.shields.io/github/forks/RudraPrasadPanda1234/TO-DO-LIST-APP?style=social) ![Stargazers](https://img.shields.io/github/stars/RudraPrasadPanda1234/TO-DO-LIST-APP?style=social) ![Issues](https://img.shields.io/github/issues/RudraPrasadPanda1234/TO-DO-LIST-APP)
 
 ## Table Of Contents
